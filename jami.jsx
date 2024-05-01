@@ -2,7 +2,7 @@ import React from 'react';
 
 const jami = () => {
     return (
-        <p>jamijami</p>
+        <h1>jami</h1>
     );
 };
 
